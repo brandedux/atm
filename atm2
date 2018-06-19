@@ -62,5 +62,5 @@ scanf("%c", &transaction);
 if (transaction == 'n'|| transaction == 'N')
 k = 1;
 } while (!k);
-printf("\n\n THANKS FOR USING OUT ATM SERVICE");
+printf("\n\n THANKS FOR USING OUR ATM SERVICE");
 }
