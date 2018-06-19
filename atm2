@@ -18,7 +18,7 @@ printf("1. Check Balance\n");
 printf("2. Withdraw Cash\n");
 printf("3. Deposit Cash\n");
 printf("4. Quit\n");
-printf("******************?**************************?*\n\n");
+printf("********************************************\n\n");
 printf("Enter your choice: ");
 scanf("%d", &choice);
 switch (choice)
@@ -51,16 +51,16 @@ amount = amount + deposit;
 printf("YOUR BALANCE IS %lu", amount);
 break;
 case 4:
-printf("\n THANK U USING ATM");
+printf("\n THANK YOU FOR USING OUR ATM");
 break;
 default:
 printf("\n INVALID CHOICE");
 }
-printf("\n\n\n DO U WISH TO HAVE ANOTHER TRANSCATION?(y/n): \n");
+printf("\n\n\n DO YOU WISH TO HAVE ANOTHER TRANSCATION?(y/n): \n");
 fflush(stdin);
 scanf("%c", &transaction);
 if (transaction == 'n'|| transaction == 'N')
 k = 1;
 } while (!k);
-printf("\n\n THANKS FOR USING OUR ATM SERVICE");
+printf("\n\n THANK YOU FOR USING OUR ATM");
 }
