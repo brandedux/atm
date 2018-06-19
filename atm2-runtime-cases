@@ -27,7 +27,7 @@ ENTER THE AMOUNT TO WITHDRAW: 200
 PLEASE COLLECT CASH
 YOUR CURRENT BALANCE IS 800
  
-DO U WISH TO HAVE ANOTHER TRANSCATION?(y/n):
+DO YOU WISH TO HAVE ANOTHER TRANSCATION?(y/n):
 ********Welcome to ATM Service**************
 1. Check Balance
 2. Withdraw Cash
@@ -41,7 +41,7 @@ ENTER THE AMOUNT TO DEPOSIT 5000
 YOUR BALANCE IS 5800
  
  
-DO U WISH TO HAVE ANOTHER TRANSCATION?(y/n):
+DO YOU WISH TO HAVE ANOTHER TRANSCATION?(y/n):
 ********Welcome to ATM Service**************
 1. Check Balance
 2. Withdraw Cash
@@ -54,7 +54,7 @@ Enter your choice: 1
 YOUR BALANCE IN Rs : 5800
  
  
-DO U WISH TO HAVE ANOTHER TRANSCATION?(y/n):
+DO YOU WISH TO HAVE ANOTHER TRANSCATION?(y/n):
 ********Welcome to ATM Service**************
 1. Check Balance
 2. Withdraw Cash
